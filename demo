@@ -1,0 +1,8 @@
+BOOL, isCurrent
+double, hourlyWage
+float,
+int,
+NSInteger, empID
+int32_t,
+int64_t,
+id, NSString *firstName, NSString *lastName
